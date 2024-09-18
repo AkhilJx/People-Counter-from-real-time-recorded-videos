@@ -1,0 +1,8 @@
+ID: 1 crossed going down at Wed Sep 18 10:29:30 2024
+ID: 2 crossed going down at Wed Sep 18 10:29:38 2024
+ID: 3 crossed going down at Wed Sep 18 10:29:47 2024
+ID: 5 crossed going up at Wed Sep 18 10:29:48 2024
+ID: 7 crossed going down at Wed Sep 18 10:29:50 2024
+ID: 9 crossed going up at Wed Sep 18 10:29:50 2024
+ID: 10 crossed going up at Wed Sep 18 10:29:51 2024
+ID: 9 crossed going down at Wed Sep 18 10:29:54 2024
